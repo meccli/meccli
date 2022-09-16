@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mario
 - I’m a DevOps engeneer 
-- I’m currently learning Go, AWS
+- I’m currently learning Go
